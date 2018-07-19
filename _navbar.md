@@ -1,0 +1,5 @@
+- [首页](/)
+- 章节
+- Translations
+  - [:cn: 中文](/)
+  - [:us: English](/en-us/)
